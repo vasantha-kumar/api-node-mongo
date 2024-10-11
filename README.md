@@ -1,2 +1,2 @@
-# api-node-mongo
-Build REST apis using node mongodb
+# my-node-api
+Build enterprise REST apis using Node Express and MongoDB
