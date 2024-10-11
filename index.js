@@ -9,7 +9,7 @@ const cors = require("cors");
 const PORT = 3000;
 const app = express();
 
-const MONGO_URI = "mongodb://gqluser:DemoG.27qL@172.232.119.218:27017/admin?directConnection=true";
+const MONGO_URI = "mongo conn url";
 
 dotenv.config();
 
